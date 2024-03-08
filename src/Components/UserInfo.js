@@ -1,7 +1,5 @@
 import { Field } from "formik";
 
-// import { studentPath, workerPath, unemployedPath } from "./../Paths";
-
 function UserInfo({ setSteps }) {
   return (
     <>
